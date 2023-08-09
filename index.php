@@ -64,7 +64,7 @@
     <div class="container">
       <p>Get inspired with a new quote every 5 seconds!</p>
       <div id="quoteContainer">Quote goes here</div>
-      <p>This page retrieves random quotes from a server using AJAX. A quote is displayed on page load and updates every few seconds.</p>
+      <p>This page retrieves random quotes from a PHP server using AJAX. A quote is displayed on page load and updates every few seconds.</p>
     </div>
     
     <script>
